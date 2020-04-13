@@ -1,0 +1,10 @@
+c:\users\10\documents\visual studio 2012\Projects\panelcontrol\panelcontrol\bin\panelcontrol.dll
+c:\users\10\documents\visual studio 2012\Projects\panelcontrol\panelcontrol\bin\panelcontrol.pdb
+c:\users\10\documents\visual studio 2012\Projects\panelcontrol\panelcontrol\obj\Debug\panelcontrol.csprojResolveAssemblyReference.cache
+c:\users\10\documents\visual studio 2012\Projects\panelcontrol\panelcontrol\obj\Debug\panelcontrol.dll
+c:\users\10\documents\visual studio 2012\Projects\panelcontrol\panelcontrol\obj\Debug\panelcontrol.pdb
+D:\Eighth Semester\Life Insurance Management System ASP.NET Project\multipleviews\panelcontrol\panelcontrol\obj\Debug\panelcontrol.csprojResolveAssemblyReference.cache
+D:\Eighth Semester\Life Insurance Management System ASP.NET Project\multipleviews\panelcontrol\panelcontrol\obj\Debug\panelcontrol.dll
+D:\Eighth Semester\Life Insurance Management System ASP.NET Project\multipleviews\panelcontrol\panelcontrol\obj\Debug\panelcontrol.pdb
+D:\Eighth Semester\Life Insurance Management System ASP.NET Project\multipleviews\panelcontrol\panelcontrol\bin\panelcontrol.dll
+D:\Eighth Semester\Life Insurance Management System ASP.NET Project\multipleviews\panelcontrol\panelcontrol\bin\panelcontrol.pdb
